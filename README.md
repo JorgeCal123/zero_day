@@ -1,1 +1,1 @@
-# this is the proyect 0x03 git of zero_day
+# this is the proyect 0x03 github of zero_day

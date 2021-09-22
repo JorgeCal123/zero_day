@@ -1,2 +1,2 @@
-# this is the proyect 0x03 github of zero_day
-# editado desde la interfaz 
+# this is the proyect 0x03 github of zero_day  was edited from git
+
